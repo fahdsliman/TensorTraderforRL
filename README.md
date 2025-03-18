@@ -21,6 +21,8 @@ A CSV file with historical stock data (see "Data Format" below).
 A GitHub account (if you want to fork or contribute!).
 Installation
 
+How to: 
+
 Clone the Repository:
 git clone https://github.com/[your-username]/[your-repo-name].git
 cd [your-repo-name]
