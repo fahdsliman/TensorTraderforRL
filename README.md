@@ -1,4 +1,4 @@
-TensorTrade Trading Environment
+my TensorTrade Trading Environment
 
 Welcome to my TensorTrade Trading Environment project. This is a beginner-friendly Python project I built while learning algorithmic trading (algo trading) and Python programming. It creates a simulated trading environment using the TensorTrade library, where an AI can practice trading a fictional stock ("TTRD") with historical price data.
 
@@ -24,6 +24,7 @@ Installation
 How to: 
 
 Clone the Repository:
+
 git clone https://github.com/[your-username]/[your-repo-name].git
 cd [your-repo-name]
 python -m venv venv source venv/bin/activate # On Windows: venv\Scripts\activate
