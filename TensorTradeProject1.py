@@ -1,5 +1,5 @@
 import yfinance
-import pandas_ta  # noqa
+import pandas_ta  
 
 TICKER = 'TTRD'  # TODO: replace this with your own ticker
 TRAIN_START_DATE = '2024-02-09'  # TODO: replace this with your own start date
