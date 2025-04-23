@@ -57,6 +57,5 @@ def create_env(config):
         renderer=[],
         window_size=config["window_size"],
         max_allowed_loss=config["max_allowed_loss"]
-    )
-
+    
     return env
