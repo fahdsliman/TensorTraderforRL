@@ -1,5 +1,5 @@
 import yfinance 
-import pandas_ta  
+import pandas_ta 
 
 
 TICKER = 'TTRD'  # TODO: replace this with your own ticker
