@@ -2,6 +2,7 @@ import yfinance
 import pandas_ta 
 
 
+
 TICKER = 'TTRD'  # TODO: replace this with your own ticker
 TRAIN_START_DATE = '2024-02-09'  # TODO: replace this with your own start date
 TRAIN_END_DATE = '2024-09-30'  # TODO: replace this with your own end date
