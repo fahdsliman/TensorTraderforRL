@@ -4,8 +4,6 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![TensorTrade](https://img.shields.io/badge/TensorTrade-0.2.2-orange)
 
-A beginner-friendly Python project that creates a simulated trading environment using the [TensorTrade](https://github.com/tensortrade-org/tensortrade) library. It allows an AI to practice trading a fictional stock ("TTRD") on a virtual exchange ("TTSE") using historical price data, with no real money involved.
-
 ## Purpose of project
 
 This project sets up a virtual trading "world" where:
