@@ -6,7 +6,7 @@
 
 A beginner-friendly Python project that creates a simulated trading environment using the [TensorTrade](https://github.com/tensortrade-org/tensortrade) library. It allows an AI to practice trading a fictional stock ("TTRD") on a virtual exchange ("TTSE") using historical price data, with no real money involved.
 
-## Purpose
+## Purpose of project
 
 This project sets up a virtual trading "world" where:
 - You start with $1,000 in cash and 0 stocks.
